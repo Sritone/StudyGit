@@ -1,0 +1,2 @@
+five > five.txt && git add five.txt && git commit -m five
+echo five
