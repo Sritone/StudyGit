@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Seven
+=======
+seven
+
+>>>>>>> acdba15 (seven)
